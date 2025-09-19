@@ -15,10 +15,11 @@ jwm
 
 
 feh
-variety
-
-
+tint2
 picom
+
+
+xsettingsd
 
 
 lxappearance
